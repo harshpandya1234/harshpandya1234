@@ -1,7 +1,11 @@
-<h2 align="left">Hi 👋! My name is Harsh H Pandya and I'm a Software Developer, from Ahmedabad</h2>
 
-###
+<img class="center-img" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTFoYTRhcDRqZ3FnaGVvenBseDF2a3AzcGtyMmlqM2QzMHljY2diYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vkCfXDKcspBQ1hqVCL/giphy.gif" alt="👋 Hi there! I'm (Harsh|nd Pandya)" title="👋 Hi there! I'm (Harsh|nd Pandya)" />
 
+## About Me
+
+a software developer with a focus on building scalable and efficient solutions. My expertise lies in  Full Stack Development, and I'm always eager to learn and adapt to new technologies.
+
+🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 in Computer Science and Engineering 2022-2025 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 LJ 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, Ahemdabad
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHd2cnAzZzV0cnh3OW5uejlsbDc3dDVuYm9jOTRoMW44OXpybms1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 
 ###
@@ -17,15 +21,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
